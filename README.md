@@ -20,10 +20,11 @@ A simple, clean, and responsive To-Do List web application built using HTML, CSS
 - Responsive and mobile-friendly
 
 
-##  How to Run the App
+## How to Run the App
 
-1. **Clone or Download the Repository**
-   bash
-   git clone https://github.com/Aritra1523/To-Do-App
+### 1. Clone or Download the Repository
+```bash
+git clone https://github.com/Aritra1523/To-Do-App.git
+
 To Show Live:
    Live Link: https://inquisitive-fudge-6d052a.netlify.app/
