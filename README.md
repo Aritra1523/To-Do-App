@@ -15,7 +15,7 @@ A simple, clean, and responsive To-Do List web application built using HTML, CSS
   - "Task marked as completed!"
   - "Task marked as uncompleted!"
   -  "Task deleted!"
-- Tasks persist using **localStorage**
+- Tasks persist using localStorage
 - Clean, semantic HTML structure
 - Responsive and mobile-friendly
 
@@ -23,7 +23,7 @@ A simple, clean, and responsive To-Do List web application built using HTML, CSS
 ##  How to Run the App
 
 1. **Clone or Download the Repository**
-   ```bash
+   bash
    git clone https://github.com/Aritra1523/To-Do-App
-
-   And Live Link: https://inquisitive-fudge-6d052a.netlify.app/
+To Show Live:
+   Live Link: https://inquisitive-fudge-6d052a.netlify.app/
